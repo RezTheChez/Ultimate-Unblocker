@@ -20,3 +20,12 @@ Here's how you can use this bookmarklet:
 1. Follow the steps above to create the bookmarklets
 2. Find a video to un-restrict (Note: It only works on restricted videos)
 3. Click the bookmarklet
+
+
+
+# Edit Page
+
+Here's how you can use this bookmarklet:
+
+1. Go to any website
+2. Click to bookmarklet to toggle on/off bookmarklet
